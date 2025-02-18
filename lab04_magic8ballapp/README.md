@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Output 
+
+![recording-lab04](https://github.com/user-attachments/assets/da62f95f-ec5b-4f8c-84c6-6f54116c5c06)
+
+Note: You can download the video Magic 8 Ball App from https://drive.google.com/file/d/1_PzEJ-zYEBskMB87jYGswsWXLPOu_iBj/view?usp=drive_link

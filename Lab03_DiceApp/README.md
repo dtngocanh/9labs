@@ -17,7 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Output
 
-![recording-lab03](https://github.com/user-attachments/assets/8a94bfa1-5f52-4a60-843b-ef559e45d4fb)
+![recording-lab03](https://github.com/user-attachments/assets/94f23497-e84f-4710-b4e8-b445f7fb0cda)
+
 
 Note : You can download the video dice app from https://drive.google.com/file/d/1Pg787vXp2UGRAdBZuLZ3QiXbAsbZzR29/view?usp=drive_link
 

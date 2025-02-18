@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Output
+
+https://github.com/user-attachments/assets/8a94bfa1-5f52-4a60-843b-ef559e45d4fb
+Note : You can download the video dice app from https://drive.google.com/file/d/1Pg787vXp2UGRAdBZuLZ3QiXbAsbZzR29/view?usp=drive_link
+

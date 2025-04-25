@@ -18,3 +18,17 @@ samples, guidance on mobile development, and a full API reference.
 ## Demo
 
 ![Demo App](images/lab6_quizzler.gif)
+
+## Mô tả 
+
+Ứng dụng hiển thị câu hỏi trắc nghiệm dạng đúng/sai.
+
+Có hai nút bấm: ✅ True và ❌ False.
+
+Khi người dùng chọn đáp án:
+
+Một icon ✅ hoặc ❌ sẽ được thêm vào thanh kết quả phía dưới (scorekeeper).
+
+Câu hỏi tiếp theo được hiển thị.
+
+Khi làm hết câu hỏi, có thể hiện thông báo "Hết câu hỏi" và reset lại.

@@ -22,3 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Note : You can download the video dice app from https://drive.google.com/file/d/1Pg787vXp2UGRAdBZuLZ3QiXbAsbZzR29/view?usp=drive_link
 
+## Mô tả
+
+Ứng dụng hiển thị hai viên xúc xắc bên cạnh nhau. Khi người dùng chạm vào một viên bất kỳ, cả hai xúc xắc sẽ "lắc" – tức là sẽ hiện ra một số ngẫu nhiên từ 1 đến 6, tương ứng với mặt xúc xắc.
+
